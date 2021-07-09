@@ -1,0 +1,6 @@
+cdp_dep_version=7.1.7.0-511
+cdp_dep_gbn=15129332
+cm_gbn=15301147
+cm_branch=cm7-7.4.4
+cm_version=7.4.4
+dist_target=redhat8
